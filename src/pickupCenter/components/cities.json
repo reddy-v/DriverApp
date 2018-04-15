@@ -1,0 +1,153 @@
+[
+    {
+        "id": "1",
+        "name": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "id": "2",
+        "name": "Delhi",
+        "state": "Delhi"
+    },
+    {
+        "id": "3",
+        "name": "Bengaluru",
+        "state": "Karnataka"
+    },
+    {
+        "id": "4",
+        "name": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "id": "5",
+        "name": "Hyderabad",
+        "state": "Telangana",
+        "deliveryCenters": [
+            {
+              "type":"WAC",
+              "id":"1",
+              "name":"Airport",
+              "address":"Shamshabhad Airport, Hyderabad, India",
+              "serviceTypes":[
+                {
+                  "name":"pickups",
+                  "selected":"false"
+                },{
+                  "name":"deliveries",
+                  "selected":"false"
+                },{
+                  "name":"wingsAirportCenter",
+                  "selected":"false"
+                },{
+                  "name":"wingsCityCenter",
+                  "selected":"false"
+                }
+              ]
+            },
+            {"type":"WCC","id":"2","name":"Taranaka","address":"Taranaka, Hyderabad, India",
+              "serviceTypes":[
+                {
+                  "name":"pickups",
+                  "selected":"false"
+                },{
+                  "name":"deliveries",
+                  "selected":"false"
+                },{
+                  "name":"wingsAirportCenter",
+                  "selected":"false"
+                },{
+                  "name":"wingsCityCenter",
+                  "selected":"false"
+                }
+              ]
+            },
+            {"type":"WCC","id":"3","name":"Secundarabad","address":"Secundarabad, Hyderabad, India",
+              "serviceTypes":[
+                {
+                  "name":"pickups",
+                  "selected":"false"
+                },{
+                  "name":"deliveries",
+                  "selected":"false"
+                },{
+                  "name":"wingsAirportCenter",
+                  "selected":"false"
+                },{
+                  "name":"wingsCityCenter",
+                  "selected":"false"
+                }
+              ]
+            },
+            {"type":"WCC","id":"4","name":"Hitech City","address":"Hitech City, Hyderabad, India",
+              "serviceTypes":[
+                {
+                  "name":"pickups",
+                  "selected":"false"
+                },{
+                  "name":"deliveries",
+                  "selected":"false"
+                },{
+                  "name":"wingsAirportCenter",
+                  "selected":"false"
+                },{
+                  "name":"wingsCityCenter",
+                  "selected":"false"
+                }
+              ]
+            },
+            {"type":"WCC","id":"5","name":"Habsiguda","address":"Habsiguda, Hyderabad, India",
+              "serviceTypes":[
+                {
+                  "name":"pickups",
+                  "selected":"false"
+                },{
+                  "name":"deliveries",
+                  "selected":"false"
+                },{
+                  "name":"wingsAirportCenter",
+                  "selected":"false"
+                },{
+                  "name":"wingsCityCenter",
+                  "selected":"false"
+                }
+              ]
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": "7",
+        "name": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "id": "8",
+        "name": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "id": "9",
+        "name": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "id": "10",
+        "name": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "id": "11",
+        "name": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "id": "12",
+        "name": "Kanpur",
+        "state": "Uttar Pradesh"
+    }
+]
